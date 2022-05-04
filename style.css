@@ -1,0 +1,42 @@
+body{
+    font-family: Arial;
+    background-color: #103;
+    
+}
+h1,h3{
+    text-align: center;
+    color: #e7e7e7;
+}
+h2{
+    margin-top: 0px;
+}
+a{
+    text-align: center;
+    background-color: #a8f;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #103;
+    border-radius: 4px;
+    
+}
+.full-item{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    gap: 20px;
+    place-content: center;
+    
+}
+.item{
+    display: grid;
+    background-color: #f7f7f7;
+    border: 1px solid #e7e7e7;
+    padding: 20px;
+    border-radius: 5px;
+}
+.contatos{
+
+    text-align: center;
+}
+
+    
+
